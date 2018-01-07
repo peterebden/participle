@@ -7,7 +7,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/alecthomas/participle/lexer"
+	"github.com/peterebden/participle/lexer"
 )
 
 var (

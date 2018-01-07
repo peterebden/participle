@@ -5,7 +5,7 @@ import (
 	"reflect"
 	"text/scanner"
 
-	"github.com/alecthomas/participle/lexer"
+	"github.com/peterebden/participle/lexer"
 )
 
 type generatorContext struct {

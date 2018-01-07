@@ -1,7 +1,7 @@
 package participle
 
 import (
-	"github.com/alecthomas/participle/lexer"
+	"github.com/peterebden/participle/lexer"
 )
 
 // Capture can be implemented by fields in order to transform captured tokens into field values.
